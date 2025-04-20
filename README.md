@@ -2,3 +2,9 @@
 
 <h2>👩‍💻 Information Technology Projects:</h2>
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Post-Installation Configuration]
+ 
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory with Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+
