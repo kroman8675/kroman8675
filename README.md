@@ -6,5 +6,4 @@
   - [osTicket: Post-Installation Configuration]
  
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory with Azure VMs]
-
+  - [Configuring Active Directory within Azure VMs](https://github.com/kroman8675/configure-ad)
