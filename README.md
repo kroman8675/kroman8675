@@ -7,6 +7,7 @@
  
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/kroman8675/configure-ad)
-  - Network Security Groups (NSGs) and Inspecting Network Protocols 
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https:/github.com/kroman8675/azure-network-protocols)
+  
 
 
